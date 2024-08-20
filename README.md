@@ -35,7 +35,7 @@ to save a new student in MySQL database to be shown in the List of Students.
 <p>The <code>studentcontroller</code>class will handles HTTP requests which define the endpoints of the API. Also, it uses service classes to perform business logic.
 
 <h3 id="studentrepository">StudentRepository</h3>
-<p>The <code>studentrepository</code> interface extends JpaRepository and provide methods for CRUD operations inside the API REST.  
+<p>The <code>studentrepository</code> interface extends JpaRepository and provides methods for CRUD operations inside the API REST.  
   
 <h3 id="studentservice(+Impl)">StudentService(+Impl)</h3>
 <p>The <code>studentservice</code> class interacts directly with the <code>StudentRepository</code>. In here we can define methods to handle the CRUD operations related to entities defined in the <code>Student</code> class.</p>
