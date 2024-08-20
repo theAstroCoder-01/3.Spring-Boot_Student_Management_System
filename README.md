@@ -3,7 +3,7 @@
 
 <body>
 
-<h1>Spring-Boot_2.-Student_Management_System</h1>
+<h1>Spring-Boot_Student_Management_System</h1>
 
 <p><strong>Student Management System</strong> is a REST API with CRUD operations that allows the user to Create, Read, Update, and Delete any kind of student. This API has an ADD STUDENT function
 to save a new student in MySQL database to be shown in the List of Students.
